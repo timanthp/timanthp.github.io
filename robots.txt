@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://timanthp.github.io/sitemap
+Sitemap: https://timanthp.github.io/app/sitemap
+Sitemap: https://timanthp.github.io/assets/sitemap
+Sitemap: https://timanthp.github.io/css/sitemap
+Sitemap: https://timanthp.github.io/includes/sitemap
+Sitemap: https://timanthp.github.io/item/sitemap
+Sitemap: https://timanthp.github.io/src/sitemap
